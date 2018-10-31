@@ -6,7 +6,7 @@ package com.pobjetos.controlador;
  */
 public class Controlador {
     public static void main(String[] args) {
-        System.out.println("LLEGANDO A MI FINCA");
+        System.out.println("TE PORTAS COMO TU CUERPO");
     }
 
 }
